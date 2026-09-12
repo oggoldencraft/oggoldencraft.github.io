@@ -1,0 +1,14 @@
+{
+  "latest": {
+    "release": "1.12.2"
+  },
+  "versions": [
+    {
+      "id": "1.12.2",
+      "type": "release",
+      "url": "https://piston-meta.mojang.com/v1/packages/832d95b9f40699d4961394dcf6cf549e65f15dc5/1.12.2.json",
+      "time": "2017-09-18T08:29:48+00:00",
+      "releaseTime": "2017-09-18T08:29:48+00:00"
+    }
+  ]
+}
